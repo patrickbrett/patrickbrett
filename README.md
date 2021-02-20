@@ -6,13 +6,13 @@ I'm a penultimate year Software Engineering and Finance student at Monash Univer
 
 I also work part time as a software engineer at ANZ Bank on the Property Price Predictions team, where I get to work with AWS, Node and machine learning systems on a day-to-day basis.
 
-### 🎥 YouTube
+### YouTube 🎥  
 
 I'm very interested in the cloud and digital transformation. Over the past two years I've achieved 10 AWS certifications, including both Professional certs, and documented everything I've learned on my YouTube channel.
 
 If you're interested in getting AWS certified, or even just learning more about the cloud, you'll find plenty of resources [on the channel](https://youtube.com/c/PatrickBrett1111).
 
-### 🎨 Projects
+### Projects 🎨 
 
 On this Github, you will find a variety of experiments and projects. 
 
@@ -24,6 +24,6 @@ Another cool one is [MatchThe.Cloud](https://matchthe.cloud) - a simple and fun 
 
 Right now, I'm working on a few fun side projects, such as an error correction code visualiser and an AI-powered video editor.
 
-### ☕️ Let's catch up
+### Let's catch up ☕️ 
 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/patrickbrett1) - I'm always down to grab a coffee or set up a Zoom call to meet new and interesting people.
