@@ -16,7 +16,7 @@ If you're interested in getting AWS certified, or even just learning more about 
 
 On this Github, you will find a variety of experiments and projects. Some are pretty outdated or lame, but a few are kind of cool.
 
-A super simple one, but one that I'm quite proud of, is HowManyAWS, which tracks the number of AWS services available - a surprisingly difficult feat given their rapid pace of growth. There were only 175 when I made this a couple of years ago - as of writing, there are now 239!
+A super simple one I'm quite proud of is HowManyAWS, which tracks the number of AWS services available - a surprisingly difficult feat given AWS' rapid pace of growth. There were only 175 when I made this a couple of years ago - as of writing, there are now 239!
 
 You can see it live at [HowManyAWS.com](https://howmanyaws.com).
 
