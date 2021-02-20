@@ -10,7 +10,7 @@ I also work part time as a software engineer at ANZ Bank, on the Property Price 
 
 I'm very interested in the cloud and digital transformation. Over the past two years I've achieved 10 AWS certifications, including both Professional certs, and documented everything I've learned on my YouTube channel.
 
-If you're interested in getting AWS certified, or even just learning more about the cloud, you'll find plenty of resources [on the channel](https://youtube.com/c/PatrickBrett1111].
+If you're interested in getting AWS certified, or even just learning more about the cloud, you'll find plenty of resources [on the channel](https://youtube.com/c/PatrickBrett1111).
 
 ### Projects
 
