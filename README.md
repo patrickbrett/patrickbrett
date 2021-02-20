@@ -20,7 +20,7 @@ A super simple one I'm quite proud of is HowManyAWS, which tracks the number of 
 
 You can see it live at [HowManyAWS.com](https://howmanyaws.com).
 
-Another cool one is [MatchTheCloud](https://MatchTheCloud.com) - a simple and fun game to test your knowledge of AWS offerings. I made this to learn VueJS back in January 2020.
+Another cool one is [MatchThe.Cloud](https://matchthe.cloud) - a simple and fun game to test your knowledge of AWS offerings. I made this to learn VueJS back in January 2020.
 
 Right now, I'm working on a few fun side projects, such as an error correction code visualiser and an AI-powered video editor.
 
