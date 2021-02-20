@@ -26,4 +26,4 @@ Right now, I'm working on a few fun side projects, such as an error correction c
 
 ### ☕️ Let's catch up
 
-Feel free to reach out to me on LinkedIn - I'm always down to grab a coffee or set up a Zoom call to meet new and interesting people.
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/patrickbrett1) - I'm always down to grab a coffee or set up a Zoom call to meet new and interesting people.
