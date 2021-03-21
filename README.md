@@ -80,7 +80,7 @@ Do things with Amazon S3 you never thought possible. Move buckets between region
 
 ---
 
-#### [Match the Cloud](https://github.com/patrickbrett/match-the-cloud)
+#### [Match the Cloud](https://github.com/patrickbrett/matchthecloud)
 
 Match AWS service names to their icons. Harder than it sounds...
 
