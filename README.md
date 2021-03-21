@@ -80,11 +80,39 @@ Do things with Amazon S3 you never thought possible. Move buckets between region
 
 ---
 
+#### [Turncoat](https://github.com/patrickbrett/turncoat)
+
+Simple board game based on the classic Othello/Reversi/Turncoat.
+
+Basically, place pieces on the board such that your opponent's pieces get sandwiched. Sandwiched pieces become yours. The player with the most pieces when the board is full wins. Full instructions [here](https://www.ultraboardgames.com/othello/game-rules.php).
+
+Play against a friend or the computer.
+
+I built this to learn CSS animations and React Hooks back in 2019.
+
+🔨 Built with React, TypeScript.
+
+🌎 Live on [my really old portfolio](https://patrickbrett.net/turncoat)
+
+---
+
+#### [BadTimer](https://github.com/patrickbrett/badtimer)
+
+A timer that gradually speeds up, unlike most other timers which are boring and predictable.
+
+I made this to practice UI design back in 2019, and because the idea seemed so ridiculous I had to make it.
+
+🔨 Built with React.
+
+🌎 Live at [BadTimer.com](https://badtimer.com)
+
+---
+
 #### [Match the Cloud](https://github.com/patrickbrett/matchthecloud)
 
 Match AWS service names to their icons. Harder than it sounds...
 
-I built this to learn VueJS.
+I made this to learn VueJS.
 
 🔨 Built with Vue.
 
