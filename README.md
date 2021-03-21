@@ -80,6 +80,18 @@ Do things with Amazon S3 you never thought possible. Move buckets between region
 
 ---
 
+#### [Match the Cloud](https://github.com/patrickbrett/match-the-cloud)
+
+Match AWS service names to their icons. Harder than it sounds...
+
+I built this to learn VueJS.
+
+🔨 Built with Vue.
+
+🌎 Live at [MatchThe.Cloud](https://matchthe.cloud)
+
+---
+
 ### Let's catch up ☕️ 
 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/patrickbrett1) - I'm always down to grab a coffee or set up a Zoom call to meet new and interesting people.
