@@ -14,13 +14,14 @@ If you're interested in getting AWS certified, or even just learning more about 
 
 ### Projects 🎨 
 
-On this Github, you will find a variety of experiments and projects. 
+On this Github, you will find a variety of experiments and projects. Here are some of my favourites:
 
-A super simple one I'm quite proud of is HowManyAWS, which tracks the number of AWS services available - a surprisingly difficult feat given AWS' rapid pace of growth. There were only 175 when I made this a couple of years ago - as of writing, there are now 239!
-
-You can see it live at [HowManyAWS.com](https://howmanyaws.com).
-
-Another cool one is [MatchThe.Cloud](https://matchthe.cloud) - a simple and fun game to test your knowledge of AWS offerings. I made this to learn VueJS back in January 2020.
+- [HowManyAWS](https://github.com/patrickbrett/HowManyAWS) - How many Amazon Web Services are there right now? New services are added every week... 🔨 Built with Lambda, JavaScript, API Gateway. 🌎 Live at [HowManyAWS.com](https://howmanyaws.com)
+- [Number Plate Blurrer](https://github.com/patrickbrett/number-plate-blurrer) - AI that blurs car photos. 🔨 Built with Angular, TypeScript, Golang, Lambda, SageMaker, Python. 🚧 Currently under construction
+- [Aftertax](https://github.com/patrickbrett/aftertax) - As far as I'm aware, the only income tax calculator on the planet that lets you calculate pre-tax income from after-tax, as well as the other way around. 🔨 Built with React. 🧑‍💻 Can be run locally
+- [Victor](https://github.com/patrickbrett/victor) - What's our vector, Victor? Support Vector Machines engine and simulator. 🔨 Built with React, Node, Scikit-learn, Python, Flask. 🧑‍💻 Can be run locally
+- [Hamming Code Visualiser](https://github.com/patrickbrett/hamming-code-visualiser) - Hamming codes are a super cool way to make sure data doesn't get lost in transmission. This helps you see them in action. 🔨 Built with React. 🚧 Currently under construction
+- [S3 Plus](https://github.com/patrickbrett/s3-plus) Do things with Amazon S3 you never thought possible. Move buckets between regions, make point-in-time copies, bulk-delete empty buckets, and other voodoo. 🔨 Built with Node and AWS SDK. ☕️ [Install via NPM](https://www.npmjs.com/package/s3-plus)
 
 Right now, I'm working on a few fun side projects, such as an error correction code visualiser and an AI-powered video editor.
 
